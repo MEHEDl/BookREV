@@ -25,6 +25,6 @@ namespace BookREV.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Book");
-        }
+        } 
     }
 }
